@@ -94,9 +94,3 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
