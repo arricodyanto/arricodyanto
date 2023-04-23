@@ -77,7 +77,11 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arricodyanto&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arricodyanto&layout=compact&theme=tokyonight)
+    
+</div>  
 
 </td></tr></table>  
   
