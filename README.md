@@ -71,11 +71,11 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
 
 
 ## Github Stats
-<table style="border-style: none"><tr><td valign="top" width="50%">
+<table style="border: none"><tr style="border: none"><td valign="top" width="50%" style="border: none">
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arricodyanto&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" style="border: none">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arricodyanto&hide_border=true&layout=compact" align="center" /></div>  
 
