@@ -73,9 +73,7 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
 ## Github Stats
 <table><tr><td valign="top" width="50%">
   
-<div align="center">
-  [![Arrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=arricodyanto&show_icons=true)] 
-</div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arricodyanto)](https://github.com/anuraghazra/github-readme-stats)
 
 </td><td valign="top" width="50%">
 
