@@ -71,13 +71,24 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
 
 
 ## Github Stats
+
 <table><tr><td valign="top" width="50%">
+
+
+<div align="center">  
+ 
+![Arrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=arricodyanto&count_private=true&show_icons=true&theme=tokyonight)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arricodyanto&count_private=true&show_icons=true&theme=tokyonight)
+</div>
 
- </td><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arricodyanto&layout=compact&theme=tokyonight&langs_count=8)
+
+<div align="center">  
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arricodyanto&layout=compact&theme=tokyonight&langs_count=8)
+  
+</div>
 
 </td></tr></table>  
   
