@@ -2,7 +2,6 @@
 
 I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can do a bit of Flutter and Laravel, but mostly I use Typescript of Next.js or React.js in my development works. Besides that, I've also tried several cool things in Backend Development like Node.js, Express, MongoDB, and PosgreSQL.  
   
-
 <br/>  
 
 
