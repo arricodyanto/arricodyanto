@@ -96,7 +96,7 @@ I am Arrico Handyanto, and I'm interested in Web and Mobile Development. I can d
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2uq3scdibhnx4cc4ruriwdo3u&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=2uq3scdibhnx4cc4ruriwdo3u&redirect=true)  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2uq3scdibhnx4cc4ruriwdo3u&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile) 
   
 </div>
 
